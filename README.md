@@ -12,7 +12,10 @@ nvim
 - .local/bin
 
 kglobalshortcutsrc | khotkeysrc
-. config
+- .config
 
 .bashrc
 - .config
+
+konsole
+- .local/share
