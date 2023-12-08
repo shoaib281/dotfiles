@@ -1,0 +1,21 @@
+browser "brave-browser %u >/dev/null 2>&1 &"
+
+auto-reload yes
+reload-threads 100
+
+color listfocus black white
+color info black white
+
+articlelist-format "%f | %D | %t"
+feedlist-format     "%n %11u %t"
+articlelist-title-format "%N %V - Articles in feed '%T' (%u unread, %t total)%?F? matching filter `%F'&? "
+
+bind-key j next
+bind-key k prev
+bind-key J next-feed
+bind-key K prev-feed
+bind-key o open-in-browser-and-mark-read
+bind-key u open-in-browser
+bind-key a mark-feed-read
+
+run-on-startup set-tag "finance"
