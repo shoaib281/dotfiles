@@ -1,4 +1,5 @@
 [Added Associations]
+x-scheme-handler/file=nvim.desktop
 application/pdf=okularApplication_pdf.desktop;org.pwmt.zathura-pdf-poppler.desktop;display-im6.q16.desktop;brave_brave.desktop;libreoffice_draw.desktop;
 application/vnd.oasis.opendocument.spreadsheet=libreoffice-calc.desktop;wps-office-et.desktop;wps-office-prometheus.desktop;org.kde.ark.desktop;
 application/vnd.oasis.opendocument.text=libreoffice-writer.desktop;org.kde.ark.desktop;calibre-ebook-viewer.desktop;calibre-gui.desktop;
@@ -73,6 +74,7 @@ text/x-python3=nvim.desktop;
 video/mp4=mpv.desktop;
 video/webm=mpv.desktop;
 video/x-matroska=mpv.desktop;
+x-scheme-handler/file=nvim.desktop
 x-scheme-handler/eclipse+command x-scheme-handler/eclipse+mpc=_home_shoaib_Documents_Programming_java_eclipse_.desktop
 x-scheme-handler/eclipse+installer=_home_shoaib_Downloads_eclipse-installer_.desktop
 x-scheme-handler/geo=openstreetmap-geo-handler.desktop;
