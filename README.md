@@ -8,6 +8,9 @@ newsboat/config
 nvim
 - .config
 
+nvim/site
+- .local/share/nvim
+
 *.sh
 - .local/bin
 
