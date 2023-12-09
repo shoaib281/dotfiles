@@ -19,6 +19,11 @@ vim.api.nvim_set_keymap("i", "(", "()<esc>ha", {noremap = true})
 vim.api.nvim_set_keymap("i", '"', '""<esc>ha', {noremap = true})
 vim.api.nvim_set_keymap("i", "<", "<><esc>ha", {noremap = true})
 
+local config_directory = vim.fn.stdpath('config')
+local config_file_path = config_directory .. "/increment_dates"
+
+vim.api.nvim_set_keymap('n', '<leader>n', ':lua require("increment_dates").increment_dates()<CR>', { noremap = true, silent = true })
+
 -- plugins
 
 local plug = vim.fn["plug#"]
