@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "newFileLocation": "root",
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheck": false,
+  "rightToLeft": false,
+  "attachmentFolderPath": "Attatchements",
+  "showFrontmatter": true,
+  "vimMode": true,
+  "communityPluginSortOrder": "download",
+  "defaultViewMode": "source",
+  "autoConvertHtml": false,
+  "showInlineTitle": false
+}
