@@ -98,6 +98,7 @@ alias cdf="cd ~/Documents/Finance"
 alias cddo="cd ~/Downloads"
 alias cdw="cd ~/Documents/Work"
 alias cdo="cd ~/Documents/Obsidian"
+alias cdu="cd ~/Documents/Uni"
 alias cdm="cd ~/Music"
 alias cd.="cd .."
 alias c.="cd .."
@@ -303,3 +304,6 @@ ex=:\
 "
 
 export PATH=$PATH:/home/$USER/.spicetify:/opt/pycharm-community-2023.2.5/bin
+# scala
+export PATH=$PATH:/home/shoaib/.local/share/coursier/bin
+

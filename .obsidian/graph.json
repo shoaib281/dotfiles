@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:Journal  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -27,13 +27,6 @@
         "a": 1,
         "rgb": 11657298
       }
-    },
-    {
-      "query": "e",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 256,
-  "scale": 0.028593992977561145,
+  "scale": 0.026306010058143207,
   "close": true
 }

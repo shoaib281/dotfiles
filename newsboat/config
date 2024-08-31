@@ -18,4 +18,3 @@ bind-key o open-in-browser-and-mark-read
 bind-key u open-in-browser
 bind-key a mark-feed-read
 
-run-on-startup set-tag "finance"
