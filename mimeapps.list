@@ -1,5 +1,6 @@
 [Added Associations]
 application/pdf=okularApplication_pdf.desktop;org.pwmt.zathura-pdf-poppler.desktop;display-im6.q16.desktop;brave_brave.desktop;libreoffice_draw.desktop;
+application/vnd.ms-excel.sheet.binary.macroEnabled.12=libreoffice_calc.desktop;
 application/vnd.oasis.opendocument.spreadsheet=libreoffice-calc.desktop;wps-office-et.desktop;wps-office-prometheus.desktop;org.kde.ark.desktop;
 application/vnd.oasis.opendocument.text=libreoffice-writer.desktop;org.kde.ark.desktop;calibre-ebook-viewer.desktop;calibre-gui.desktop;
 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice-calc.desktop;wps-office-et.desktop;wps-office-prometheus.desktop;org.kde.ark.desktop;
@@ -30,6 +31,7 @@ text/x-opml+xml=nvim.desktop;vim.desktop;libreoffice-writer.desktop;okularApplic
 text/x-python=nvim.desktop;vim.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;gvim.desktop;org.gnome.gedit.desktop;calibre-gui.desktop;calibre-ebook-viewer.desktop;code.desktop;
 text/x-python3=nvim.desktop;vim.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;gvim.desktop;org.gnome.gedit.desktop;calibre-gui.desktop;calibre-ebook-viewer.desktop;code.desktop;
 video/mp4=mpv.desktop;vlc.desktop;
+video/quicktime=vlc.desktop;mpv.desktop;org.shotcut.Shotcut.desktop;
 video/webm=mpv.desktop;vlc.desktop;firefox_firefox.desktop;
 video/x-matroska=mpv.desktop;vlc.desktop;
 x-scheme-handler/geo=openstreetmap-geo-handler.desktop;
@@ -41,6 +43,7 @@ x-scheme-handler/tg=userapp-Telegram Desktop-MTO0P1.desktop;org.telegram.desktop
 
 [Default Applications]
 application/pdf=okularApplication_pdf.desktop;
+application/vnd.ms-excel.sheet.binary.macroEnabled.12=libreoffice_calc.desktop;
 application/vnd.oasis.opendocument.spreadsheet=libreoffice-calc.desktop;
 application/vnd.oasis.opendocument.text=libreoffice-writer.desktop;
 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice-calc.desktop;
@@ -71,6 +74,7 @@ text/x-opml+xml=nvim.desktop;
 text/x-python=nvim.desktop;
 text/x-python3=nvim.desktop;
 video/mp4=mpv.desktop;
+video/quicktime=vlc.desktop;
 video/webm=mpv.desktop;
 video/x-matroska=mpv.desktop;
 x-scheme-handler/eclipse+command x-scheme-handler/eclipse+mpc=_home_shoaib_Documents_Programming_java_eclipse_.desktop
