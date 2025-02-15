@@ -13,7 +13,7 @@
   "showFrontmatter": true,
   "vimMode": true,
   "communityPluginSortOrder": "download",
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "autoConvertHtml": false,
   "showInlineTitle": false
 }

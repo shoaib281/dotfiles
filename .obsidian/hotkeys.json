@@ -61,15 +61,6 @@
   ],
   "nldates-obsidian:nlp-time": [],
   "note-refactor-obsidian:app:extract-selection-first-line": [],
-  "daily-notes:goto-prev": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "I"
-    }
-  ],
   "editor:toggle-comments": [],
   "app:open-settings": [
     {
@@ -99,15 +90,6 @@
         "Mod"
       ],
       "key": "T"
-    }
-  ],
-  "daily-notes:goto-next": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
     }
   ],
   "app:go-forward": [
@@ -211,5 +193,33 @@
     }
   ],
   "editor:toggle-checklist-status": [],
-  "editor:insert-wikilink": []
+  "editor:insert-wikilink": [],
+  "workspace:new-tab": [],
+  "insert-current-time": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "markdown:add-metadata-property": [],
+  "daily-notes:goto-next": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ],
+  "daily-notes:goto-prev": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ]
 }

@@ -24,7 +24,7 @@ _k_friendly_name=Touchpad
 [kded5]
 Show System Activity=Ctrl+Esc,Ctrl+Esc,Show System Activity
 _k_friendly_name=KDE Daemon
-display=Display\tMeta+P,Display\tMeta+P,Switch Display
+display=Display,Display\tMeta+P,Switch Display
 
 [khotkeys]
 _k_friendly_name=Custom Shortcuts Service
@@ -41,6 +41,7 @@ _k_friendly_name=Custom Shortcuts Service
 {99f9ff31-c4d4-45bc-8c45-994c3dd209e2}=Meta+G,none,Gimp
 {a2d43b47-5ab1-425a-90be-ac7aad68fcac}=Meta+R,none,restart
 {b586c827-448d-4749-a196-51e1a8289521}=Meta+/,none,shortcuts
+{caed2e97-99d8-4914-8972-a31b7945f953}=Meta+P,none,neovim coding
 {ccc93c85-3420-49c2-8bea-f27cece16e96}=Ctrl+Alt+L,none,Launch Konsole
 {db4c3892-d933-4931-a372-a537f29e4ded}=Meta+F,none,libreoffice calc
 {e6ea54f8-ff97-4371-9c0d-694987a1e560}=Meta+V,none,neovim

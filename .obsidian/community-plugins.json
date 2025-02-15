@@ -4,8 +4,9 @@
   "nldates-obsidian",
   "templater-obsidian",
   "hotkeysplus-obsidian",
-  "tag-wrangler",
   "obsidian-relative-line-numbers",
   "obsidian-vimrc-support",
-  "auto-note-mover"
+  "qqqtag-wrangler",
+  "repo-tag-wrangler",
+  "shoaib-tag-wrangler"
 ]
